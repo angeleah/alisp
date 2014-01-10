@@ -1,5 +1,5 @@
-ABOUT
------
+alisp
+=====
 In wanting to know more about what was happening under the hood, [Michael Baker](https://github.com/MichaelBaker) broke it down for me by getting me to think like a computer.  He got me started on this and had me finish it as "homework".
 
 GETTING STARTED
